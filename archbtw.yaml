@@ -1,0 +1,27 @@
+impl: 'https://github.com/shinishiho/blendos-tracks/raw/main'
+
+track: 'blendos-base'
+
+packages:
+  - 'cava'
+  - 'greetd'
+  - 'kitty'
+  - 'lfs'
+  - 'neovim'
+  - 'nodejs'
+  - 'slurp'
+  - 'tmux'
+  - 'waydroid'
+  - 'waydroid-image'
+  - 'wl-clipboard'
+
+aur-packages:
+  - 'ani-cli'
+  - 'bun-bin'
+  - 'pipes-rs'
+
+services:
+  - 'greetd'
+
+commands:
+  - 'rm -f /usr/share/applications/Waydroid.desktop'
