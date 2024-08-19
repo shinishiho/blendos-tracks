@@ -3,6 +3,7 @@ impl: 'https://github.com/shinishiho/blendos-tracks/raw/main'
 track: 'blendos-base'
 
 packages:
+  - 'flatpak'
   - 'greetd'
   - 'kitty'
   - 'lf'
