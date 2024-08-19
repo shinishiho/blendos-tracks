@@ -3,10 +3,9 @@ impl: 'https://github.com/shinishiho/blendos-tracks/raw/main'
 track: 'blendos-base'
 
 packages:
-  - 'cava'
   - 'greetd'
   - 'kitty'
-  - 'lfs'
+  - 'lf'
   - 'neovim'
   - 'nodejs'
   - 'slurp'
@@ -16,6 +15,7 @@ packages:
   - 'wl-clipboard'
 
 aur-packages:
+  - 'cava'
   - 'ani-cli'
   - 'bun-bin'
   - 'pipes-rs'
