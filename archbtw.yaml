@@ -9,6 +9,7 @@ packages:
   - 'neovim'
   - 'nodejs'
   - 'slurp'
+  - 'sway'
   - 'tmux'
   - 'waydroid'
   - 'waydroid-image'
