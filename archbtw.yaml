@@ -23,7 +23,6 @@ packages:
   - 'python-pipx'
   - 'python-pynvim'
   - 'slurp'
-  - 'steam'
   - 'sway'
   - 'thefuck'
   - 'tmux'
